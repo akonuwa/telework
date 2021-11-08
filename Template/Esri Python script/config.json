@@ -1,7 +1,7 @@
 {
     "profile": "yourProfileName",
     "username": "ArcGISOnlineUsername",
-    "worker_info_csv": "D:\\GIS\\Input\\NewHire.csv",
+    "worker_info_csv": "D:\\GIS\\Input\\CSCTelework.csv",
     "employee_number_field": "EMPLOYEE_NUMBER",
     "work_address_field": "WORK_ADDRESS1",
     "work_city_field": "WORK_CITY",
